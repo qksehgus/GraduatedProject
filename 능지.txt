@@ -1,0 +1,7 @@
+날씨 시계 달력 터치패드 연동 마이크 음성인식 교통
+핸드폰 동기화 카메라를 이용해 시각 으로 컨트롤
+사용자 커스텀(편의성) 모듈화를 이용한 위치조정
+인간 인식을 통한 ON, OFF(초음파 센서 사용)
+API 다량 요구됨
+
+eye traking github : https://github.com/antoinelame/GazeTracking
