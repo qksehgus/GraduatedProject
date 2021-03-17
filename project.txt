@@ -16,3 +16,5 @@ eye traking  - OPEN CV 사용예정 https://www.youtube.com/watch?v=kbdbZFT9NQI(
 (git - https://github.com/antoinelame/GazeTracking)
 
 음성인식을 이용한 컨트롤, 검색(Google API)
+
+구글 동기화 사용으로 구글 일정 사용
