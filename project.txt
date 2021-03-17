@@ -18,3 +18,10 @@ eye traking  - OPEN CV 사용예정 https://www.youtube.com/watch?v=kbdbZFT9NQI(
 음성인식을 이용한 컨트롤, 검색(Google API)
 
 구글 동기화 사용으로 구글 일정 사용
+
+27인치 모니터 사용
+라즈베리파이 4 사용
+라즈베리 캠 사용 8MP(https://www.devicemart.co.kr/goods/view?no=1289483)
+
+구글 API
+Naver API 활용(뉴스 시사)
