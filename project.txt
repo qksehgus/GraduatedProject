@@ -14,3 +14,5 @@ eye traking  - OPEN CV 사용예정 https://www.youtube.com/watch?v=kbdbZFT9NQI(
 
 초음파를 이용 거리 측정을 한뒤 좌표에 맞춰 눈동자 이동 거리를 이용 커서 조정으로 특정 UI확대
 (git - https://github.com/antoinelame/GazeTracking)
+
+음성인식을 이용한 컨트롤, 검색(Google API)
