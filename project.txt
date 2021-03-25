@@ -1,0 +1,27 @@
+라즈베리파이
+
+온보드 or 업그레이드
+
+사용언어 : Python 3.8
+
+얼굴인식 YOLO v5 or YOLO lite 사용에정
+
+사용자 커스텀(웹을 이용한 라즈베리 파이 제어 사용)
+
+보안 - Raspberrypi 고유값을 이용하여 교차확인을 통해 해결(보안 업그레이드 필요 요망)
+
+eye traking  - OPEN CV 사용예정 https://www.youtube.com/watch?v=kbdbZFT9NQI(홍채 인식 사용예정)
+
+초음파를 이용 거리 측정을 한뒤 좌표에 맞춰 눈동자 이동 거리를 이용 커서 조정으로 특정 UI확대
+(git - https://github.com/antoinelame/GazeTracking)
+
+음성인식을 이용한 컨트롤, 검색(Google API)
+
+구글 동기화 사용으로 구글 일정 사용
+
+27인치 모니터 사용
+라즈베리파이 4 사용
+라즈베리 캠 사용 8MP(https://www.devicemart.co.kr/goods/view?no=1289483)
+
+구글 API
+Naver API 활용(뉴스 시사)
